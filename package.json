@@ -1,0 +1,30 @@
+{
+  "name": "country-iso-to-coordinates",
+  "version": "1.0.0",
+  "description": "Get country coordinates and name from ISO code",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinavagyan/country-iso-to-coordinates.git"
+  },
+  "keywords": [
+    "ISO2",
+    "ISO",
+    "LAT",
+    "LNG",
+    "COORDINATES",
+    "COUNTRY"
+  ],
+  "author": "Martin Avagyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martinavagyan/country-iso-to-coordinates/issues"
+  },
+  "homepage": "https://github.com/martinavagyan/country-iso-to-coordinates#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
