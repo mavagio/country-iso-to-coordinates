@@ -1,6 +1,6 @@
 {
   "name": "country-iso-to-coordinates",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Get country coordinates and name from ISO code",
   "main": "index.js",
   "scripts": {
